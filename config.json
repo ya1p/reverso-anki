@@ -1,0 +1,13 @@
+{
+    "browser": "webkit",
+    "headless_browser": false,
+    "html_folder_path": "favorites_htmls",
+    "deleted_folder_path": "favorites_deleted",
+    "output_cards_file": "output.txt",
+    "voice_output_folder": "voices",
+    "generate_voices": false,
+    "voice_name": null,
+    "language_code": "en",
+    "rate": 160,
+    "audio_format": "mp3"
+}

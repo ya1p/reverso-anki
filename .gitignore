@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+voices/
+favorites_htmls/
+favorites_deleted/
+
+auth_state.json
+output.txt
