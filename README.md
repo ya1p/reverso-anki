@@ -9,7 +9,6 @@ Utility to save your favorites from reverso-context to a simple txt file for lat
 - When parsing all favorites, the program will remove each entry from the favorites list one by one for complete collection, since without premium you don't have access to more than 50 entries, please keep this in mind
 - Currently only macOS is supported, other OS will be on the list in the future
 - Repository is under development so expect bugs
-- Currently only macOS is supported, other OSes will be on the list in the future
 
 
 ---
